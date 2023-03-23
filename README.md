@@ -3,6 +3,3 @@
 <p>Learning how to push changes to github</p>
 
 
-
-<p>Fixing Merge conflicts</p>
-
