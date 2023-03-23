@@ -4,3 +4,5 @@
 
 <p>Learning how to download changes from github</p>
 
+<p>Fixing Merge conflicts</p>
+
